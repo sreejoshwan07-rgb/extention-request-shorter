@@ -1,0 +1,34 @@
+======================================================================
+CIT ACADEMIC OPERATIONS: EXTENSION REQUEST TRIAGE SUMMARY (HOD REPORT)
+======================================================================
+
+Total Requests Processed: 24
+
+--- BREAKDOWN BY RECOMMENDATION ---
+  * needs_faculty_review     :   9 ( 37.5%)
+  * needs_more_info          :   6 ( 25.0%)
+  * within_policy            :   9 ( 37.5%)
+
+--- BREAKDOWN BY REASON ---
+  * event                    :   2 (  8.3%)
+  * family                   :   6 ( 25.0%)
+  * medical                  :   6 ( 25.0%)
+  * other                    :   5 ( 20.8%)
+  * technical                :   4 ( 16.7%)
+  * workload                 :   1 (  4.2%)
+
+--- BREAKDOWN BY COURSE ---
+  * CH106                    :   2 (  8.3%)
+  * CS101                    :   5 ( 20.8%)
+  * CS201                    :   2 (  8.3%)
+  * EE104                    :   3 ( 12.5%)
+  * HS107                    :   2 (  8.3%)
+  * MA102                    :   3 ( 12.5%)
+  * ME105                    :   2 (  8.3%)
+  * PH103                    :   3 ( 12.5%)
+  * Unspecified/Invalid      :   2 (  8.3%)
+
+Policy Constants Applied:
+  * MAX_DAYS_WITHIN_POLICY: 3
+  * ALLOWED_POLICY_REASONS: ['family', 'medical', 'technical']
+======================================================================
